@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1584292750 source:c:\users\sergey\desktop\lab_2b\main.cpp
+	"Header.h"
+
+1584293232 source:c:\users\sergey\desktop\lab_2b\25.cpp
+	"Header.h"
+
+1584292761 c:\users\sergey\desktop\lab_2b\header.h
+	<iostream>
+	<fstream>
+	<cstdio>
+	<conio.h>
+	<vector>
+	<windows.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1584293523 source:c:\users\sergey\desktop\lab_2b\19.cpp
+	"Header.h"
+
